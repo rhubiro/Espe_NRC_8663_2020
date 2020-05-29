@@ -1,0 +1,4 @@
+	Test's file
+
+This is a file to do "git-program" tests.
+:) :) :)
